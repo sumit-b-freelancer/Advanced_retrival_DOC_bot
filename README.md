@@ -147,10 +147,3 @@ streamlit run app.py
 
 This project is developed for educational and portfolio purposes.
 
----
-
-## 👨‍💻 Author
-
-**SUMIT BADAKE**  
-B.E. Artificial Intelligence & Data Science  
-AI/ML Enthusiast | RAG | Generative AI | Data Science
